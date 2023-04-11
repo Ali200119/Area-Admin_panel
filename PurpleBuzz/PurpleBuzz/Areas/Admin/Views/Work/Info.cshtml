@@ -1,0 +1,43 @@
+﻿@model Work
+
+@{
+    ViewBag.Title = "Work Info";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">Images</th>
+                            <th scope="col">Description</th>
+                            <th scope="col">Category</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>
+                                @foreach (var image in Model.WorkImages)
+                                {
+                                    <img style="border-radius: 50%" src="~/assets/img/@image.Name" width="70px" height="70px" />
+                                }
+                            </td>
+
+                            <td>
+                                <h2>@Model.Description</h2>
+                            </td>
+
+                            <td>
+                                <h2>@Model.Category.Name</h2>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <a style="width: 60px;" class="btn btn-primary mt-5" asp-area="Admin" asp-controller="Work" asp-action="Index">Back</a>
+            </div>
+        </div>
+    </div>
+</div>

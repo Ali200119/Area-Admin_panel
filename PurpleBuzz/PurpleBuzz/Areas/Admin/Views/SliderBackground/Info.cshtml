@@ -1,0 +1,32 @@
+﻿@model SliderBackground
+
+@{
+    ViewBag.Title = "SliderBackground Info";
+ }
+
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">Image</th>
+                            <th scope="col">Name</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><img src="~/assets/img/@Model.Image" width="270px" height="60px" /></td>
+                            <td>
+                                <h1>@Model.Image</h1>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <a style="width: 60px;" class="btn btn-primary mt-5" asp-area="Admin" asp-controller="SliderBackground" asp-action="Index">Back</a>
+            </div>
+        </div>
+    </div>
+</div>

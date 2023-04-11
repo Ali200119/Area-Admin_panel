@@ -1,0 +1,42 @@
+﻿@model SliderBackground
+
+@{
+    ViewBag.Title = "Slider Background";
+}
+
+
+<a class="btn btn-success" style="float: right; margin-right: 50px; margin-top: 30px" asp-area="Admin" asp-controller="SliderBackground" asp-action="Create">Create</a>
+
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">Image</th>
+                            <th scope="col">Status</th>
+                            <th scope="col">Operations</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><img src="~/assets/img/@Model.Image" width="270px" height="60px" /></td>
+                            <td>
+                                <div style="width: 40px; height: 40px; background-color: greenyellow; border-radius: 50%"></div>
+                                <div style="width: 40px; height: 40px; background-color: red; border-radius: 50%; display: none"></div>
+                            </td>
+                            <td>
+                                <ul style="list-style: none; display: flex; justify-content: space-between; width: 200px; gap: 10PX">
+                                    <li><a class="btn btn-outline-info" asp-area="Admin" asp-controller="SliderBackground" asp-action="Info" asp-route-id="@Model.Id">Info</a></li>
+                                    <li><a class="btn btn-outline-secondary" asp-area="Admin" asp-controller="SliderBackground" asp-action="Edit" asp-route-id="@Model.Id">Edit</a></li>
+                                    <li><a class="btn btn-outline-danger" href="">Delete</a></li>
+                                </ul>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

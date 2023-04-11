@@ -1,0 +1,113 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PurpleBuzz
+build_property.RootNamespace = PurpleBuzz
+build_property.ProjectDir = /Users/ali200119/Desktop/Homework/PurpleBuzz/PurpleBuzz/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/ali200119/Desktop/Homework/PurpleBuzz/PurpleBuzz
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/ali200119/Desktop/Homework/PurpleBuzz/PurpleBuzz/Areas/Admin/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGFzaGJvYXJkL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ali200119/Desktop/Homework/PurpleBuzz/PurpleBuzz/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ali200119/Desktop/Homework/PurpleBuzz/PurpleBuzz/Areas/Admin/Views/Slider/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2xpZGVyL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ali200119/Desktop/Homework/PurpleBuzz/PurpleBuzz/Areas/Admin/Views/Slider/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2xpZGVyL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ali200119/Desktop/Homework/PurpleBuzz/PurpleBuzz/Areas/Admin/Views/Slider/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2xpZGVyL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ali200119/Desktop/Homework/PurpleBuzz/PurpleBuzz/Areas/Admin/Views/Slider/Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2xpZGVyL0luZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ali200119/Desktop/Homework/PurpleBuzz/PurpleBuzz/Areas/Admin/Views/SliderBackground/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2xpZGVyQmFja2dyb3VuZC9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ali200119/Desktop/Homework/PurpleBuzz/PurpleBuzz/Areas/Admin/Views/SliderBackground/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2xpZGVyQmFja2dyb3VuZC9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ali200119/Desktop/Homework/PurpleBuzz/PurpleBuzz/Areas/Admin/Views/SliderBackground/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2xpZGVyQmFja2dyb3VuZC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ali200119/Desktop/Homework/PurpleBuzz/PurpleBuzz/Areas/Admin/Views/SliderBackground/Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2xpZGVyQmFja2dyb3VuZC9JbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ali200119/Desktop/Homework/PurpleBuzz/PurpleBuzz/Areas/Admin/Views/Work/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvV29yay9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ali200119/Desktop/Homework/PurpleBuzz/PurpleBuzz/Areas/Admin/Views/Work/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvV29yay9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ali200119/Desktop/Homework/PurpleBuzz/PurpleBuzz/Areas/Admin/Views/Work/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvV29yay9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ali200119/Desktop/Homework/PurpleBuzz/PurpleBuzz/Areas/Admin/Views/Work/Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvV29yay9JbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ali200119/Desktop/Homework/PurpleBuzz/PurpleBuzz/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ali200119/Desktop/Homework/PurpleBuzz/PurpleBuzz/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ali200119/Desktop/Homework/PurpleBuzz/PurpleBuzz/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWJvdXQvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ali200119/Desktop/Homework/PurpleBuzz/PurpleBuzz/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ali200119/Desktop/Homework/PurpleBuzz/PurpleBuzz/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ali200119/Desktop/Homework/PurpleBuzz/PurpleBuzz/Views/Pricing/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJpY2luZy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ali200119/Desktop/Homework/PurpleBuzz/PurpleBuzz/Views/Work/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV29yay9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ali200119/Desktop/Homework/PurpleBuzz/PurpleBuzz/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ali200119/Desktop/Homework/PurpleBuzz/PurpleBuzz/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ali200119/Desktop/Homework/PurpleBuzz/PurpleBuzz/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-856yuas5to

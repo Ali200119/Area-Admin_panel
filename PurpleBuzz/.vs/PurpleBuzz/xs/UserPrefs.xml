@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{53973DED-534D-4499-B81F-DCF56E03E13B}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PurpleBuzz" expanded="True">
+            <Node name="PurpleBuzz" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Views" expanded="True">
+                    <Node name="Shared" expanded="True">
+                      <Node name="_Layout.cshtml" selected="True" />
+                    </Node>
+                    <Node name="Slider" expanded="True" />
+                    <Node name="SliderBackground" expanded="True" />
+                    <Node name="Work" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PurpleBuzz PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

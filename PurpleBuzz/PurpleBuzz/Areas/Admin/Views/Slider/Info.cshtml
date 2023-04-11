@@ -1,0 +1,35 @@
+﻿@model Slider
+
+@{
+    ViewBag.Title = "Slider Info";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">Title</th>
+                            <th scope="col">Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>
+                                <h1>@Html.Raw(Model.Title)</h1>
+                            </td>
+
+                            <td>
+                                <h2>@Html.Raw(Model.Description)</h2>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <a style="width: 60px;" class="btn btn-primary mt-5" asp-area="Admin" asp-controller="Slider" asp-action="Index">Back</a>
+            </div>
+        </div>
+    </div>
+</div>
